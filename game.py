@@ -1,9 +1,6 @@
 import pygame
 import time
 import random
-import os
-
-print os.getcwd()
 
 pygame.init()
 
